@@ -116,26 +116,40 @@ Using visualization and statistics for one, two and more columns to understand t
 
 ## Final Insights: 
 
-1- The  almost top  10 University  in the world located in the USA that points to the strenght of the outputs of American University.
-
-2- In Shanghai ranking, USA universities takes most of top 10 ranks.
+1- In Shanghai ranking, USA universities takes most of top 10 ranks.
 
 <img width="1268" alt="Screenshot 1446-08-14 at 2 10 34 AM" src="https://github.com/user-attachments/assets/fc854310-c474-402b-a9ec-e5c29d5161a1" />
 
-3- In Shanghai ranking, USA universities occupy 37% of the ranks out of top 100 universities.
+2- In Shanghai ranking, USA universities occupy 37% of the ranks out of top 100 universities.
 
 <img width="1297" alt="Screenshot 1446-08-14 at 2 12 09 AM" src="https://github.com/user-attachments/assets/54905700-4c7e-4da5-a35f-c3c40a0d4e02" />
 
-4- In Shanghai ranking, Saudi Arabia is the Arab country whose universities are ranked the most in shanghia ranking compared to other Arab countries.
+3- In Shanghai ranking, Saudi Arabia is the Arab country whose universities are ranked the most in shanghia ranking compared to other Arab countries.
 
 <img width="1279" alt="Screenshot 1446-08-14 at 2 13 10 AM" src="https://github.com/user-attachments/assets/e7985b11-1b16-482d-9fbb-1d6955f7911e" />
 
-5- In Shanghai ranking, Arab universities are late in researching as few universities that appear in top 300 ranks.
+4- In Shanghai ranking, Arab universities are late in researching as few universities that appear in top 300 ranks.
 
 <img width="1302" alt="Screenshot 1446-08-14 at 2 14 41 AM" src="https://github.com/user-attachments/assets/dbd34e43-71e9-4166-a936-e7dd0437ccf5" />
 
-6- In Shanghai ranking, saudi arabia universities takes a rank in almost all ranks intervals. 
+5- In Shanghai ranking, saudi arabia universities takes a rank in almost all ranks intervals. 
 
 <img width="1297" alt="Screenshot 1446-08-14 at 2 15 59 AM" src="https://github.com/user-attachments/assets/06164d96-f5fd-4ebe-a3cb-4b83eda70d90" />
 
+6- In caterer for world University Ranking, the almost top 10 University in the world located in the USA that points to the strength of the outputs of American University.
 
+<img width="1255" alt="Screenshot 1446-08-14 at 2 25 26 AM" src="https://github.com/user-attachments/assets/5c679ec4-59e1-4651-89a2-575ad862cf69" />
+
+7- France accounts for 40% and the USA for 30% of the countries represented in the top 10 universities by employability rank, according to the Center for World University Rankings 2024. 
+
+<img width="1322" alt="Screenshot 1446-08-14 at 2 26 16 AM" src="https://github.com/user-attachments/assets/367ed79f-ce2f-4833-bf4d-3361fac9091c" />
+
+8- According to the Center for World University Rankings 2024, this chart highlights that Arab countries have relatively weak research rankings, which significantly affect their overall positions in the list of the world's top universities.
+
+<img width="1334" alt="Screenshot 1446-08-14 at 2 26 47 AM" src="https://github.com/user-attachments/assets/29dc02dc-dd28-489a-9b2f-74931a5df96b" />
+
+9- Globally, the research factor plays a pivotal role in significantly influencing a university's overall rank, according to the Center for World University Rankings 2024.
+
+<img width="1292" alt="Screenshot 1446-08-14 at 2 27 13 AM" src="https://github.com/user-attachments/assets/43522492-a36d-41e3-9d54-19a7f3d34064" />
+
+10 -  
