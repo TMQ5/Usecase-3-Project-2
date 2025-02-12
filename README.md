@@ -115,7 +115,7 @@ Using visualization and statistics for one, two and more columns to understand t
 
 ## Final Insights: 
 
-1- 
+1- The  almost top  10 University  in the world located in the USA that points to the strenght of the outputs of American University.
 
 2- 
 
