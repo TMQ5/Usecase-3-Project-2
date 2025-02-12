@@ -118,7 +118,24 @@ Using visualization and statistics for one, two and more columns to understand t
 
 1- The  almost top  10 University  in the world located in the USA that points to the strenght of the outputs of American University.
 
-2- 
+2- In Shanghai ranking, USA universities takes most of top 10 ranks.
 
-3- 
+<img width="1268" alt="Screenshot 1446-08-14 at 2 10 34 AM" src="https://github.com/user-attachments/assets/fc854310-c474-402b-a9ec-e5c29d5161a1" />
+
+3- In Shanghai ranking, USA universities occupy 37% of the ranks out of top 100 universities.
+
+<img width="1297" alt="Screenshot 1446-08-14 at 2 12 09 AM" src="https://github.com/user-attachments/assets/54905700-4c7e-4da5-a35f-c3c40a0d4e02" />
+
+4- In Shanghai ranking, Saudi Arabia is the Arab country whose universities are ranked the most in shanghia ranking compared to other Arab countries.
+
+<img width="1279" alt="Screenshot 1446-08-14 at 2 13 10 AM" src="https://github.com/user-attachments/assets/e7985b11-1b16-482d-9fbb-1d6955f7911e" />
+
+5- In Shanghai ranking, Arab universities are late in researching as few universities that appear in top 300 ranks.
+
+<img width="1302" alt="Screenshot 1446-08-14 at 2 14 41 AM" src="https://github.com/user-attachments/assets/dbd34e43-71e9-4166-a936-e7dd0437ccf5" />
+
+6- In Shanghai ranking, saudi arabia universities takes a rank in almost all ranks intervals. 
+
+<img width="1297" alt="Screenshot 1446-08-14 at 2 15 59 AM" src="https://github.com/user-attachments/assets/06164d96-f5fd-4ebe-a3cb-4b83eda70d90" />
+
 
