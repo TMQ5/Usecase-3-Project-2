@@ -1,5 +1,5 @@
 ## Introduction
-University rankings provide valuable insights into the global higher education landscape. This study analyzes university ranking data across **three globally recognized ranking systems**:
+University rankings provide valuable insights into the global higher education landscape. This usecase analyzes university ranking data across **three globally recognized ranking systems**:
 
 1. **Academic Ranking of World Universities (ARWU)** – also known as the **Shanghai Ranking**.
 2. **Times Higher Education World University Rankings (THE)**.
