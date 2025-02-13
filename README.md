@@ -41,7 +41,7 @@ This project aims to **analyze global university rankings** by leveraging availa
 4. **Evaluate the correlation between national and global rankings** to determine the consistency and reliability of various ranking methodologies.  
 5. **Identify countries with the highest concentration of top-ranked universities** based on global ranking patterns.  
 6. **Develop strategic recommendations** to help universities enhance their ranking performance.  
-7. **Expand the analysis** by incorporating additional insights, including ranking trends over time and institutional performance shifts.  
+7. **Expand the analysis** by incorporating additional insights.  
 
 ---
 
