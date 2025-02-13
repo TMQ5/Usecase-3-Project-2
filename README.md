@@ -152,4 +152,6 @@ Using visualization and statistics for one, two and more columns to understand t
 
 <img width="1292" alt="Screenshot 1446-08-14 at 2 27 13 AM" src="https://github.com/user-attachments/assets/43522492-a36d-41e3-9d54-19a7f3d34064" />
 
-10 -  
+10 -  In Times ranking, USA universities also takes most of top 10 ranks.
+
+<img width="1277" alt="Screenshot 1446-08-14 at 8 58 28 AM" src="https://github.com/user-attachments/assets/a6167b68-cbc4-4355-934b-62566a60532f" />
